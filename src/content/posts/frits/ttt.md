@@ -1,20 +1,13 @@
 ---
-title: "我的第一篇测试博客"
-pubDate: 2026-03-15
-description: "用 Mizuki 搭建博客的第一次成功发布！"
+# 以下都是必填字段，缺一不可
+title: "我的测试博客"        # 文章标题（必填）
+pubDate: 2026-03-15         # 发布日期（必填）
+description: "这是一篇测试文章" # 描述（必填）
+published: true             # 已发布状态（必填，true/false）
 ---
 
-# 我的第一篇测试博客
+# 测试标题
+这是我的测试博客内容 ✨
 
-这是我用 Mizuki + Cloudflare Pages 搭建的第一篇博客文章 🎉
-
-## 功能测试
-
-- ✅ 标题与日期正常显示
-- ✅ 段落文本正常渲染
-- ✅ 列表样式生效
-- ✅ 代码块可以高亮
-
-```javascript
-// 测试代码块
-console.log("Hello, Mizuki Blog!");
+- 列表测试 1
+- 列表测试 2
