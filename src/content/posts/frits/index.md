@@ -17,16 +17,16 @@ permalink: "固定链接"
 
 - 列表测试 1
 - 列表测试 2
-pinned: false  是否顶置
-published: 2026-4-1 日期
-title: 这是标题 
+- pinned: false  是否顶置
+- published: 2026-4-1 日期
+- title: 这是标题 
 
-description: 这是简介
-category：文章分类，用于组织文章
-licenseName 许可
-author: 作者
-permalink: "固定链接"
-"fix: 规范published日期格式为YYYY-MM-DD"
-git add src/content/posts/frits/
-git commit -m "fix: 规范published日期格式为YYYY-MM-DD"
-git push origin main
+- description: 这是简介
+- category：文章分类，用于组织文章
+- licenseName 许可
+- author: 作者
+- permalink: "固定链接"
+- "fix: 规范published日期格式为YYYY-MM-DD"
+- git add src/content/posts/frits/
+- git commit -m "fix: 规范published日期格式为YYYY-MM-DD"
+- git push origin main
