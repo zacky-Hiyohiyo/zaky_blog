@@ -7,8 +7,8 @@ tags: [测试,音乐]
 category: 音乐
 author: 蓝月奈久留
 draft: false
-date: 2025-01-20
-pubDate: 2025-01-20
+date: 2025-01-27
+pubDate: 2025-01-21
 permalink: "固定链接"
 ---
 
@@ -26,3 +26,7 @@ category：文章分类，用于组织文章
 licenseName 许可
 author: 作者
 permalink: "固定链接"
+"fix: 规范published日期格式为YYYY-MM-DD"
+git add src/content/posts/frits/
+git commit -m "fix: 规范published日期格式为YYYY-MM-DD"
+git push origin main
