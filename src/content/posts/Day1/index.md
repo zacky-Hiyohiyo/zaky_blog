@@ -3,8 +3,8 @@ title: "这是一篇测试文章（测试测试 测试~）"
 published: 2025-01-20
 pinned: true
 description: "全面解析React Hooks的使用方法和最佳实践，包含大量代码示例和图片说明。"
-tags: [React, JavaScript, Hooks, Frontend]
-category: "Web Development"
+tags: [测试]
+category: "测试项"
 licenseName: "MIT"
 author: "李四"
 sourceLink: "https://github.com/lisi/react-hooks-guide"
