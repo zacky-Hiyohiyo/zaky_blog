@@ -7,7 +7,7 @@ tags: [游戏]
 category: re9
 author: 蓝月奈久留
 draft: false
-
+image: "./cover.webp"
 ---
 
 ### 终于把生化危机9通关了~~（虽然是好几天前的事情了）~~   
