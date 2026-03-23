@@ -30,7 +30,7 @@ image: "./cover.webp"
 4B/5B：80%百兆   
 8/10B：80%千兆
 
-### 联系
+### 练习
 ![alt text](image-3.png)
 <details>
 <summary>答案</summary>
