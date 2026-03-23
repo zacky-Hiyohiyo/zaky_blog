@@ -47,6 +47,7 @@ image: "./cover.webp"
 <details>
 <summary>答案</summary>
 室内ap不高于100mW，室外不能500mW,27dbm
+
 ![alt text](image-1.png)
 </details>  
 
