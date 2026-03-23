@@ -18,7 +18,7 @@ export type AnimeItem = {
 
 const localAnimeList: AnimeItem[] = [
 	{
-		title: "Lycoris Recoil",
+		title: "kelrs",
 		status: "completed",
 		rating: 9.8,
 		cover: "/assets/anime/lkls.webp",
