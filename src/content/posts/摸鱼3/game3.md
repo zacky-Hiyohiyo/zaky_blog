@@ -19,9 +19,8 @@ image: "./cover.webp"
 ## 本站新加了个追番功能！！
 现在可以记录我2026年到底看了什么番和玩了什么游戏了www
 #### 昨天成功玩了一把无限储君，成功折磨了自己的好友
-<video controls src="r.mp4" width="100%">
-</video>   
-
+<video controls src="r.mp4" width="100%">下载视频</a>观看。
+</video>
 *** 
 ***
 ***   
