@@ -47,7 +47,6 @@ p-坚持型：行到变闲时以概率p发送，否者延迟一个时槽
 k=min【重传次数，10】，k=[12,10]=10，那么可能等待的事件是[0,1023]
 ### 练习
 ![alt text](image-2.png)
-![alt text](image-5.png)
 
 <details>
 <summary>答案</summary>
