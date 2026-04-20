@@ -1,10 +1,10 @@
 ---
-title: 
+title: 逐渐成为自己讨厌的人
 published: 2026-04-20
 pinned: false
 description: 摸鱼
 tags: [摸鱼]
-category: 摸摸鱼
+category: 
 author: 蓝月奈久留
 draft: false
 image: "./cover.webp"
