@@ -7,7 +7,7 @@ tags: ["hello world", "Blogging"]
 category: 分类名称
 author: "超絕可愛の一抹多"  # 新增这一行
 draft: false
-pinned: false
+pinned: true
 ---
 ## 待开发中...
 ## 待开发中...
